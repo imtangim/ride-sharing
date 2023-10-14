@@ -1,0 +1,32 @@
+List<Map<String, dynamic>> busService = [
+  {
+    "dept_place": "Home",
+    "Arrive_place": "Aiport",
+    "Depart_Time": "11:00 AM",
+    "arival_time": "11:35 AM",
+    "Distance": "12 ",
+    "total_time": 35,
+    "ticket_price": 7.5,
+    "Special_price": false,
+  },
+  {
+    "dept_place": "Home",
+    "Arrive_place": "Aiport",
+    "Depart_Time": "12:00 AM",
+    "arival_time": "12:40 AM",
+    "Distance": "12 ",
+    "total_time": 40,
+    "ticket_price": 5.2,
+    "Special_price": true,
+  },
+  {
+    "dept_place": "Home",
+    "Arrive_place": "Aiport",
+    "Depart_Time": "12:30 AM",
+    "arival_time": "01:15 AM",
+    "Distance": "12 ",
+    "total_time": 45,
+    "ticket_price": 5.0,
+    "Special_price": false,
+  },
+];
