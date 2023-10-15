@@ -29,7 +29,7 @@ Here're some of the project's best features:
 - Google Map Api
 
 <h2>🐱‍🚀 Set your google map api key to AndroidManifest.xml</h2>
-<img src="./assets/screnshot/5.png" alt="project-screenshot">
+<img src="./assets/screnshot/5.PNG" alt="project-screenshot">
 
 <h2>💻 Built with</h2>
 
